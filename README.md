@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#my name is Shakhzod
+# my name is Shakhzod
 
 <!--
 **shakhzod1199/shakhzod1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
