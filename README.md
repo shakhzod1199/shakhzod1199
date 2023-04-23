@@ -1,6 +1,6 @@
 ### Hi Hello 👋
 
-# 💬 My name is Shakhzod 
+# 💬 My name is Shakhzodbek
 
 ## 🔭 I'm Front End Developer
 
